@@ -1,7 +1,7 @@
 <h1 align="center">Abdul Muttaqin &nbsp;·&nbsp; IMTAQIN.ID</h1>
 
 <p align="center">
-  Solo indie developer from Jakarta 🇮🇩.<br/>
+   indie developer.<br/>
   I build <strong>small, native, fast tools</strong> — mostly in Rust, Go, and TypeScript.
 </p>
 
