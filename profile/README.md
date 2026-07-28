@@ -24,7 +24,7 @@
 
 Independent engineer. Small team of one. I build boring, native software the way I want to run it — a single binary you can drop on a $5 VPS, not a 400 MB runtime that needs a Kubernetes operator to survive the weekend.
 
-Most of what I ship here is **open source, non-profit**. I keep the projects that pay the bills (like MAUBLAST) private, then publish the pieces underneath them — waxum, goampp, the scrapers, the growth tooling — for other developers to reuse.
+Most of what I ship here is **open source, non-profit**.  for other developers to reuse.
 
 If any of that is useful to you, or if you have work I could take on part-time, my inbox is open.
 
