@@ -1,15 +1,11 @@
 ### About me
 
-i started programming journey since was child, like 9y.o love about programming and other thing
+all public software/repo in this will become free forever, i don't want to change to premium or paid subscription as i dont like that way
 
+except app that i publish to playstore ( only in there ) and only that way you can support me
 ____________________________________________
 
-DevOps , Mobile Developer, Desktop Developer , Fullstack Developer , Reverse Engineer 
+
+Contact : cp@imtaqin.id
 
 
-
-Contact me at : cp@imtaqin.id
-
-if you want to support my work, or want to me build something for you:)
-
-cheers
